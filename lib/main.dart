@@ -151,7 +151,7 @@ class _MyHomePageState extends State<MyHomePage> {
         headers: <String, String>{
           'content-type': 'text/plain',
           'x-rapidapi-key':
-              '61a60793f2mshbbaeed163cb4f20p188ff9jsn90e64101a93b',
+              'your key goes here',
           'x-rapidapi-host': 'shazam.p.rapidapi.com',
           'useQueryString': 'true'
         },
